@@ -132,5 +132,5 @@ int main(){
     // largeAndSmall(); //Q3
     // sumOfDivisors(14); //Q4
     // perfectNumber(29); //Q5
-    orderedPerfectNumbers(); //Q6
+    // orderedPerfectNumbers(); //Q6
 }
